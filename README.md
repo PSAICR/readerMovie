@@ -5,4 +5,4 @@
 电影列表
 ![image](images/effects/电影首页.PNG)
 TOP250
-![image](images/effects/TOP250.PNG)
+![image](images/effects/Top250.PNG)
